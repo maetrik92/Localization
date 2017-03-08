@@ -1,10 +1,10 @@
 {
-	"PHONE_UI_TITLE" = "Call UI";
-	"SLIDE_TO_ANSWER_TEXT" = "slide to answer";
-	"REMIND_ME_LABEL" = "Remind me";
-	"MESSAGE_LABEL" = "Message";
-	"DECLINE_LABEL" = "Decline";
-	"ACCEPT_LABEL" = "Accept";
-	"DEFAULT" = "Default";
-	"DONE" = "Done";
+	"PHONE_UI_TITLE" = "Περιβάλλον Συσκευής";
+	"SLIDE_TO_ANSWER_TEXT" = "Σύρετε Για Απάντηση";
+	"REMIND_ME_LABEL" = "Ειδοποίησε Με";
+	"MESSAGE_LABEL" = "Μήνυμα";
+	"DECLINE_LABEL" = "Απόρριψη";
+	"ACCEPT_LABEL" = "Αποδοχή";
+	"DEFAULT" = "Προεπιλογή";
+	"DONE" = "Έγινε";
 }
