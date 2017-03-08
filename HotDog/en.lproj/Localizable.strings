@@ -1,6 +1,6 @@
 {
-	"HIDDEN_TEXT" = "Legend has it that hot dogs or frankfurters originated in Frankfurt-am-Main, Germany around 1484.";
-	"RESPRING_TEXT" = "Would you like to respring now to save changes?";
-	"LATER" = "Later";
-	"OK" = "OK";
+	"HIDDEN_TEXT" = "Ο θρύλος υποστηρίζει ότι τα hot dogs ή τα λουκάνικα Φρανκφούρτης προέρχονταν κυρίως από την Φρανκφούρτη (Frankfurt-am-Main), της Γερμανίας κατά το 1484.";
+	"RESPRING_TEXT" = "Θα θέλατε να κάνετε Respring έτσι ώστε να εφαρμοστούν οι αλλαγές σας;";
+	"LATER" = "Αργότερα";
+	"OK" = "Ναι";
 }
