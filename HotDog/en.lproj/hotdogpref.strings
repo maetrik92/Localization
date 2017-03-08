@@ -1,15 +1,15 @@
 {
-	"STATUS_BAR_TITLE" = "Status Bar";
-	"LOCKSCREEN_DATETIME_TITLE" = "Lock Screen Date & Time";
-	"SLIDE_TO_UNLOCK_TITLE" = "Slide to Unlock";
-	"PASSCODE_LOCK_VIEW_TITLE" = "Passcode View";
-	"PHONE_UI_TITLE" = "Call UI";
-	"NOTIFICATIONS_TITLE" = "Notifications";
-	"POWERDOWN_TITLE" = "Power Down View";
-	"MEDIA_CONTROLS_TITLE" = "Media";
-	"OTHERS_TITLE" = "Others";
-	"ABOUT" = "About Me";
-	"DONATE" = "Donate via PayPal";
-	"CREDITS" = "Credits to translators";
-  "LOCK" = "Lock";
+	"STATUS_BAR_TITLE" = "Μπάρα Ενημερώσεων";
+	"LOCKSCREEN_DATETIME_TITLE" = "Οθόνη Κλειδώματος Ημ/νία & Ώρα";
+	"SLIDE_TO_UNLOCK_TITLE" = "Σείρετε Για Ξεκλείδωμα";
+	"PASSCODE_LOCK_VIEW_TITLE" = "Εμφάνιση Κωδικού Ξεκλειδώματος";
+	"PHONE_UI_TITLE" = "Εμφάνιση Οθόνης Κλήσεων";
+	"NOTIFICATIONS_TITLE" = "Ειδοποιήσεις";
+	"POWERDOWN_TITLE" = "Εμφάνιση Μενού Απενεργοποίησης";
+	"MEDIA_CONTROLS_TITLE" = "Κατά Την Αναπαραγωγή";
+	"OTHERS_TITLE" = "Λοιπά";
+	"ABOUT" = "Σχετικά Μ'Εμένα";
+	"DONATE" = "Δωρεά Μέσω PayPal";
+	"CREDITS" = "Τα εύσημα στους μεταφραστές";
+  "LOCK" = "Κλείδωμα";
 }
